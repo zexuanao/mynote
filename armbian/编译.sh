@@ -1,0 +1,1 @@
+./compile.sh RELEASE=bullseye BUILD_MINIMAL=no BOARD=odroidn2 BRANCH=current BUILD_ONLY=default HOST=armbian BUILD_DESKTOP=no EXPERT=yes KERNEL_CONFIGURE=no CLEAN_LEVEL="make,cache,alldebs,sources" COMPRESS_OUTPUTIMAGE="sha"
